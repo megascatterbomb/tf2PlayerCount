@@ -14,5 +14,7 @@ Contents:
   - Historical data accessed via the Wayback Machine.
   - Data manually scraped and compiled by Zesty Jesus.
   - Data contains gaps due to Steam API outages, teamwork.tf outages, or gaps in the Wayback Machine's archives.
+- `giftapultnames.xlsx`
+  - Contains the data for Zesty's followup video ["TF2: I Found 60,000 Bots"](https://www.youtube.com/watch?v=nnuxHZm73PU)
 
 License: Do whatever you want with this info, Zesty and I don't care.
